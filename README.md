@@ -1,1 +1,1 @@
-# semeval2027-agentrisk
+# semeval2027 Semantic Change
